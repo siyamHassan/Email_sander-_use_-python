@@ -55,5 +55,3 @@ body.pack(pady=5)
 
 tk.Button(root, text="Submit", command=submit, font=("Arial", 12), bg="lightblue").pack(pady=20)
 root.mainloop()
-
-# vwtd ushf mzro xjzv
